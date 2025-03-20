@@ -5,7 +5,7 @@ Define an integer array of 5 elements and get user input to store in the array.
 Loop through the array using the length If the number is positive, check for even or odd numbers and print accordingly
 If the number is negative, print negative. Else if the number is zero, print zero.
 Finally compare the first and last element of the array and display if they equal, greater or less */
-
+import java.util.Scanner;
 public class Q2 {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);

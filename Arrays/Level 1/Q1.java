@@ -21,7 +21,7 @@ public class Q1 {
             else{
                 System.out.println("The student with the age "+age[i]+" cannot vote");
             }
-        }+
+        }
         
         
     }

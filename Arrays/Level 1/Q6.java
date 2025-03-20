@@ -5,7 +5,7 @@ The formula to calculate the mean is: mean = sum of all elements / number of ele
 Create a double array named heights of size 11 and get input values from the user.
 Find the sum of all the elements present in the array.
 Divide the sum by 11 to find the mean height and print the mean height of the football team */
-
+import java.util.Scanner;
 public class Q6 {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
